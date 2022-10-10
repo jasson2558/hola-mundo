@@ -1,2 +1,3 @@
 #hola-mundo!
-Bienvenido a mi nuevo proyecto, donde procederemos a empezar\r nuestra aventura
+Bienvenido a mi nuevo proyecto, donde procederemos a empezar
+nuestra aventura
